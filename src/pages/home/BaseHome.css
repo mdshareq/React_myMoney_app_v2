@@ -1,0 +1,39 @@
+/*  Base Home  */
+
+.base-home {
+  background-color: rgb(240, 241, 241);
+  max-width: 800px;
+  margin: 120px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+.base-home .base-brand {
+  font-size: 3em;
+  color: rgb(54, 53, 53);
+}
+.base-home .base-welcome {
+  padding-top: 30px;
+  padding-left: 20px;
+  font-size: 2.2em;
+  color: rgb(54, 53, 53);
+}
+.base-home .base-head {
+  padding-left: 20px;
+  font-size: 1.7em;
+  color: rgb(54, 53, 53);
+}
+.base-home .base-body {
+  padding: 20px;
+  padding-bottom: 30px;
+  font-size: 1em;
+  color: rgb(54, 53, 53);
+}
+
+.base-home .link {
+  color: rgb(54, 53, 53);
+  text-decoration: none;
+}
+.base-home .link:hover {
+  color: rgb(77, 219, 89);
+  text-decoration: none;
+}
